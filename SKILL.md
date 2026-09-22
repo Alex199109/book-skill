@@ -1,6 +1,6 @@
 ---
 name: how-to-win-friends
-description: "Knowledge base from "How to Win Friends and Influence People (人性的弱点)" by Dale Carnegie. Use when applying Carnegie's frameworks for interpersonal influence, persuasion, conflict resolution, leadership, public speaking, and domestic harmony."
+description: 'Knowledge base from "How to Win Friends and Influence People (人性的弱点)" by Dale Carnegie. Use when applying Carnegie''s frameworks for interpersonal influence, persuasion, conflict resolution, leadership, public speaking, and domestic harmony.'
 ---
 
 <!-- argument-hint: [topic, framework name, or chapter number] -->
