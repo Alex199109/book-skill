@@ -9,13 +9,13 @@ Agent skill generated from *How to Win Friends and Influence People (人性的�
 Install across compatible agent environments (Codex, Claude Code, GitHub Copilot CLI, Amp, OpenClaw):
 
 ```bash
-npx skills add <your-github-username>/how-to-win-friends
+npx skills add Alex199109/book-skill
 ```
 
 Or clone directly into your skills directory:
 
 ```bash
-git clone <repo-url> ~/.agents/skills/how-to-win-friends
+git clone https://github.com/Alex199109/book-skill.git ~/.agents/skills/how-to-win-friends
 ```
 
 ## Structure & File Inventory
